@@ -1,0 +1,6 @@
+{
+  "name": "Thawnthu Archive",
+  "description": "Bilingual Mizo and English folktale library and interactive AI storyteller celebrating Mizo oral heritage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
